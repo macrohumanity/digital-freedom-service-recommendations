@@ -4,4 +4,4 @@
 
 **Feel free to submit established additions!**
 
-*Feel free to contact macrohumanity directly: 1rcummin@protonmail.com*
+*Contact macrohumanity directly: 1rcummin@protonmail.com*
