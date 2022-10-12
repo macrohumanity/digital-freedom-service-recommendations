@@ -87,11 +87,11 @@
   * **[Standard Notes Compatibility](https://standardnotes.com/download):** Android, iOS, Windows, MacOS, __GNU/Linux__, Command Line Interface (CLI) & [web interface](https://app.standardnotes.com/).
   * **Standard Notes Alternatives:** *? Please contribute to this document if you know of a reputable, comparable, preferably free/libre and/or open source alternative(s).*
 
-## 9. Messenger: [Signal](https://www.signal.org/) ##
-* Signal is an independent non-profit, cross-platform, [free/libre and open source](https://ssd.eff.org/en/module/how-use-signal-android), end-to-end encrypted instant messaging service. There are no ads, no affiliate marketers, and no creepy tracking in Signal. [Learn more about Signal](https://www.howtogeek.com/708916/what-is-signal-and-why-is-everyone-using-it/).
-  * **[DONATE TO SIGNAL](https://www.signal.org/donate/)** 
-  * **[Signal Compatibility](https://www.signal.org/download/):** Android, iOS, Windows, MacOS, __GNU/Linux__.
-  * **Signal Alternatives:** [Telegram](https://telegram.org/), which is [open source](https://telegram.org/apps) -OR- learn how to use [Internet Relay Chat (IRC)](https://www.howtogeek.com/684735/why-2020-is-the-perfect-time-to-revisit-irc/). Try [Hexchat](https://hexchat.github.io/), which is [open source](https://hexchat.github.io/).
+## 9. Messenger: [Session](https://getsession.org/) ##
+* Session is a an open source, private messaging app that protects your metadata, encrypts your communications, and makes sure your messaging activities leave no digital trail behind. [Learn more about Session](https://itsfoss.com/session-messenger/).
+  * Note: Unlike Signal, Session __does not require your phone number__ and utilizes a [decentralized network](https://www.getsession.org/blog/onion-requests-session-new-message-routing-solution) with over 1,600 nodes ran by volunteers around the world, similar to Tor.
+  * **[Session Compatibility](https://getsession.org/download):** Android, iOS, F-Droid, Windows, MacOS, __GNU/Linux__.
+  * **Session Alternatives:** [Signal](https://www.signal.org/), which is [free/libre and open source](https://ssd.eff.org/en/module/how-use-signal-android) -OR- learn how to use [Internet Relay Chat (IRC)](https://www.howtogeek.com/684735/why-2020-is-the-perfect-time-to-revisit-irc/). Try [Hexchat](https://hexchat.github.io/), which is [open source](https://hexchat.github.io/).
 
 
 ## 11. Bitcoin Wallet: [Wasabi Wallet](https://wasabiwallet.io) ##
