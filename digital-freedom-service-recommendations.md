@@ -41,13 +41,13 @@
 [Learn more about DucDuckGo](https://duckduckgo.com/about).
   * **DuckDuckGo Alternatives:** [Brave Search](https://brave.com/search/), which is reportedly soon-to-be open source.
 
-## 8. Password Manager: [Bitwarden](https://bitwarden.com/) ##
+## 4. Password Manager: [Bitwarden](https://bitwarden.com/) ##
 * Bitwarden is an [open-source](https://bitwarden.com/open-source/) password management service that stores sensitive information such as website credentials in a vault by way of [end-to-end encryption](https://bitwarden.com/blog/vault-security-bitwarden-password-manager/). Bitwarden also offers a cloud-hosted service as well as the ability to deploy the solution on-premises. [Learn more about Bitwarden](https://bitwarden.com/about/).
   * Bitwarden offers both business and personal plans with corresponding subscription levels for each plan, including a free of cost personal option. [Learn more about Bitwarden pricing](https://bitwarden.com/pricing/).
   * **[Bitwarden Compatibility](https://bitwarden.com/download/):** Android, iOS, Windows, MacOS, __GNU/Linux__, [Command Line Interface (CLI)](https://bitwarden.com/help/cli/) & [web interface](https://vault.bitwarden.com/#/login).
   * **Bitwarden Alternatives:** [NordPass](https://nordpass.com/), which is closed source.
 
-## 10. Two Factor Authentication (2FA): [Bitwarden Authenticator](https://bitwarden.com/help/authenticator-keys/) ##
+## 5. Two Factor Authentication (2FA): [Bitwarden Authenticator](https://bitwarden.com/help/authenticator-keys/) ##
 * Bitwarden Authenticator is an open source service that generates six-digit Time-based One-Time Passwords (TOTPs) using SHA-1 and rotates them every 30 seconds. Bitwarden Auhenticator is incorporated into the Bitwarden Password Manager application
   * **__TOTP code generation requires a Bitwarden premium subscription ($10/year) or membership to a paid organization (families, teams, or enterprise)__.** Authenticator key (TOTP) storage is available to all Bitwarden accounts.
   * **NOTE:** there is a potential security hazard in using one service (such as Bitwarden) for both password management and 2FA code generation. If you are concerned, use an undermentioned 2FA service alternative or use a different password manager (such as [NordPass](https://nordpass.com/)).
@@ -66,7 +66,7 @@
   * **Proton Drive is a web application.** No desktop or mobile application options exist as of August 2022.
   * **Proton Drive Alternatives:** [MEGA](https://mega.io/), which is closed source.
 
-## 4. Map Navigation: ##
+## 8. Map Navigation: ##
 ### **MOBILE:** [Magic Earth](https://www.magicearth.com/) ###
 * Magic Earth is a maps and navigation app based on [OpenStreetMap](https://www.openstreetmap.org) data. The app relies on open data and features free of cost turn-by-turn navigation, downloadable maps, traffic information, speed cameras, and public transport.
   * **[Magic Earth Compatibility](https://www.magicearth.com/):** Android, iOS.
@@ -77,24 +77,24 @@
   * **[DONATE TO OPENSTREETMAP](https://donate.openstreetmap.org/)**
   * **OpenStreetMap is a web application.** No desktop or mobile application options exist as of August 2022.
 
-## 10. Video Calling/Conferencing: [Jami](https://jami.net/) ##
+## 9. Video Calling/Conferencing: [Jami](https://jami.net/) ##
 * Jami is a [free/libre and open source](https://en.wikipedia.org/wiki/Jami_(software)), state-of-the-art, end-to-end encrypted universal communication platform which preserves the user's privacy and freedoms.
   * **[Jami Compatibility](https://jami.net/download/):** Android, Android TV, iOS, Windows, MacOS, __GNU/Linux__
   * **Jami Alternatives:** [Jitsi Meet](https://jitsi.org/jitsi-meet/), which is [free/libre and open source](https://en.wikipedia.org/wiki/Jitsi).
 
-## 5. Note-taking: [Standard Notes](https://standardnotes.com/) ##
+## 10. Note-taking: [Standard Notes](https://standardnotes.com/) ##
 * Standard Notes is an [open source](https://standardnotes.com/help/46/is-standard-notes-an-open-source-notes-app) end-to-end encrypted note-taking app for digitalists and professionals. Capture your notes, files, and life’s work all in one secure place. [Learn more about Standard Notes](https://standardnotes.com/features).
   * **[Standard Notes Compatibility](https://standardnotes.com/download):** Android, iOS, Windows, MacOS, __GNU/Linux__, Command Line Interface (CLI) & [web interface](https://app.standardnotes.com/).
   * **Standard Notes Alternatives:** *? Please contribute to this document if you know of a reputable, comparable, preferably free/libre and/or open source alternative(s).*
 
-## 9. Messenger: [Session](https://getsession.org/) ##
+## 11. Messenger: [Session](https://getsession.org/) ##
 * Session is a an open source, private messaging app that protects your metadata, encrypts your communications, and makes sure your messaging activities leave no digital trail behind. [Learn more about Session](https://itsfoss.com/session-messenger/).
   * Note: Unlike Signal, Session __does not require your phone number__ and utilizes a [decentralized network](https://www.getsession.org/blog/onion-requests-session-new-message-routing-solution) with over 1,600 nodes ran by volunteers around the world, similar to Tor.
   * **[Session Compatibility](https://getsession.org/download):** Android, iOS, F-Droid, Windows, MacOS, __GNU/Linux__.
   * **Session Alternatives:** [Signal](https://www.signal.org/), which is [free/libre and open source](https://ssd.eff.org/en/module/how-use-signal-android) -OR- learn how to use [Internet Relay Chat (IRC)](https://www.howtogeek.com/684735/why-2020-is-the-perfect-time-to-revisit-irc/). Try [Hexchat](https://hexchat.github.io/), which is [open source](https://hexchat.github.io/).
 
 
-## 11. Bitcoin Wallet: [Wasabi Wallet](https://wasabiwallet.io) ##
+## 12. Bitcoin Wallet: [Wasabi Wallet](https://wasabiwallet.io) ##
 * Wasabi Wallet is a [free/libre and open-source](https://docs.wasabiwallet.io/FAQ/FAQ-Introduction.html#why-is-wasabi-libre-and-open-source-software), [non-custodial](https://www.bitcoin.com/get-started/custodial-non-custodial-bitcoin-wallets/#2/), privacy-focused Bitcoin wallet. Wasabi Wallet includes [built-in Tor](https://www.torproject.org/), [coinjoin](https://docs.wasabiwallet.io/FAQ/FAQ-Introduction.html#what-is-a-coinjoin) and coin control features. [Learn more about Wasabi Wallet](https://wasabiwallet.io/about.html).
   * **[Wasabi Wallet Compatibility](https://wasabiwallet.io/index.html#download):** Windows, MacOS, __GNU/Linux__.
   * **Wasabi Wallet Alternatives:** *? Please contribute to this document if you know of a reputable, comparable, preferably free/libre and/or open source alternative(s).*
